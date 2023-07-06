@@ -1,0 +1,5 @@
+{
+  "title": "Todo List App",
+  "welcomeMessage": "Welcome to our application!",
+  "introduction": "This is a todo list application. We can add todos to this application and manage the status of each todo in the dashboard. You can add, update, delete and complete the todos in the todo list. This application is used by using React + Redux for front end, Node.js + Express.js for backend, and Firestore for the database."
+}
